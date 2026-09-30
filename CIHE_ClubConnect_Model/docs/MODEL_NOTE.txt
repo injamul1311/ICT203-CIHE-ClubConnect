@@ -1,0 +1,3 @@
+CIHE ClubConnect is a teacher/model application package.
+It contains implementation and documentation examples aligned to the supplied ICT203 brief.
+Real GitHub collaboration evidence, public deployment URL, screenshots, and presentation performance are external evidence and are not fabricated in this package.
